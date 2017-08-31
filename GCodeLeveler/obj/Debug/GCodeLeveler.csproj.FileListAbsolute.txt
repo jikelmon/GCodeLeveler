@@ -1,0 +1,6 @@
+C:\Users\nicol\CloudStation\Projekte\CNC\Software\GCodeLeveler\GCodeLeveler\bin\Debug\GCodeLeveler.exe.config
+C:\Users\nicol\CloudStation\Projekte\CNC\Software\GCodeLeveler\GCodeLeveler\bin\Debug\GCodeLeveler.exe
+C:\Users\nicol\CloudStation\Projekte\CNC\Software\GCodeLeveler\GCodeLeveler\bin\Debug\GCodeLeveler.pdb
+C:\Users\nicol\CloudStation\Projekte\CNC\Software\GCodeLeveler\GCodeLeveler\obj\Debug\GCodeLeveler.exe
+C:\Users\nicol\CloudStation\Projekte\CNC\Software\GCodeLeveler\GCodeLeveler\obj\Debug\GCodeLeveler.pdb
+C:\Users\nicol\CloudStation\Projekte\CNC\Software\GCodeLeveler\GCodeLeveler\obj\Debug\GCodeLeveler.csprojResolveAssemblyReference.cache
